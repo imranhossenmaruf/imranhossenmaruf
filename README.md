@@ -20,10 +20,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imranhossenmaruf&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Most Contributed Repositories
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=radical&hide_border=false" alt="Top Languages and Repo Stats" />
+</p>
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=radical" alt="DESI_MLH Project" />
+</p>
 [![](https://visitcount.itsvg.in/api?id=imranhossenmaruf&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 🔝 Top Repositories
 
