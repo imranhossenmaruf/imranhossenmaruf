@@ -33,11 +33,16 @@
 
 <br/>
 
-### 🔝 Most Contributed Repositories
+<br/>
+
+## **🔝 Featured Project**
+<hr>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=ambient_gradient" alt="DESI_MLH Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI-MLH&theme=radical" alt="DESI-MLH Project" />
 </p>
+
+<br/>
 
 ## **🔝 Top Repositories**
 
