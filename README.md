@@ -73,3 +73,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+
+# 📊 My Weekly Coding Activity
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=iimranhossenmaruf&theme=tokyonight&layout=compact)
