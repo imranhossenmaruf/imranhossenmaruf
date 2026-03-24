@@ -52,3 +52,8 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
+
+# 👤 Facebook Activity
+<hr>
+
+[![Facebook Post](https://img.shields.io/badge/Follow%20me%20on-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/iimranhossenmaruf1)
