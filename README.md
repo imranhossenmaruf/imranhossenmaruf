@@ -11,16 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight&hide_border=false)
 
-<br/>
-
 ## **🏆 GitHub Profile Summary**
 <hr>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
-
-<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight)
 
 <br/>
 
