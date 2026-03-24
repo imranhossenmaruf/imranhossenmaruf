@@ -1,80 +1,71 @@
 # 💫 About Me:
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&width=800&height=150&multiline=true&repeat=true&lines=🔭+I’m+currently+working+on+DESI+MLH+and+Unity+Run+Club;🌱+I’m+currently+learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python,+MongoDB,+and+Telegram+bots;⚡+Fun+fact:+I+am+a+long-distance+runner!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=800&height=180&multiline=true&repeat=true&lines=🔭+I’m+currently+working+on+DESI+MLH+and+Unity+Run+Club;🌱+I’m+currently+learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python,+MongoDB,+and+Telegram+bots;⚡+Fun+fact:+I+am+a+long-distance+runner!" alt="Typing SVG" />
   </a>
 </p>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RvWXsmZFZ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iimranhossenmaruf1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imranhossainmaruf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iimranhossenmaruf) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imranhossenmaruf) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Imran-Hossain-Maruf-1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ih.maruf1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iimranhossenmaruf@gmail.com) 
+## 🌐 Connect with Me:
+<p align="left">
+<a href="https://facebook.com/iimranhossenmaruf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/imranhossainmaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iimranhossenmaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:iimranhossenmaruf@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://discord.gg/RvWXsmZFZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Database & Tools</h3>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 # 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=tokyonight&no-bg=true&column=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight&hide_border=false)
-# 🏅 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight)
-
-# 🛠️ Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+# 📊 GitHub Analysis
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&theme=tokyonight&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" />
 </p>
 
-# 🐍 GitHub Eating My Contributions
-<hr>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight" />
+</p>
 
-![snake gif](https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg)
+# 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg" />
 
-## 📅 Contribution Calendar
-
-![Contribution Calendar](https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&show_icons=true&theme=tokyonight&custom_title=My+Contributions)
-
-# 📊 GitHub Activity Graph
-
+# 📊 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=false)
 
-# 🔝 Featured Project
-
+# 🔝 Featured Projects
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=tokyonight" alt="DESI-MLH Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=tokyonight" />
 </p>
 
-# 🔝 Top Repositories
+# ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=tokyonight&hide_border=false" alt="Profile-README" />
-
-# ✍️ Random Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-# 📈 Visitor Counter 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=blue&style=flat-square" alt="Visitor Count" />
-</p>
-
-# 👤 Facebook Activity
-<hr>
-
-[![Facebook Post](https://img.shields.io/badge/Follow%20me%20on-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/iimranhossenmaruf1)
-
-# ☕ Support & Donations
-<hr>
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.5px !important;">
-  </a>
-  <a href="https://ko-fi.com/ih_maruf" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" height="42">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" />
 </p>
