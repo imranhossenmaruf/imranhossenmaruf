@@ -42,9 +42,9 @@
 
 # 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iimranhossenmaruf&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimranhossenmaruf&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" />
 </p>
