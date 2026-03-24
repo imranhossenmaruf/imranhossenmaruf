@@ -31,8 +31,13 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=radical" alt="Profile-README" />
 </p>
-## 🛠️ Most Used Languages
----
+<br/>
+
+## **🛠️ Most Used Languages**
+<hr>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=radical&hide_border=false" alt="imranhossenmaruf Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
+
+<br/>
