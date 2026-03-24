@@ -25,12 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=tokyonight" alt="DESI-MLH Project" />
 </p>
 
-# ✍️ Random Dev Quote
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
 # 🔝 Top Repositories
 
 <p align="left">
