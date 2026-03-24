@@ -13,11 +13,7 @@
 ![])
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=radical&no-frame=false&no-bg=true" alt="imranhossenmaruf github trophies" />
-  </a>
-</p>
+[![trophies](https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
