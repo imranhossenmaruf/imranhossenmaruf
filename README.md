@@ -1,5 +1,7 @@
 # 💫 About Me:
-​🔭 I’m currently working on<br>​DESI MLH (a modular Telegram bot) and a Member Verification System for the Unity Run Club.<br>​🌱 I’m currently learning<br>​Advanced React.js hooks, Next.js dynamic components, and Cybersecurity tools in Termux.<br>​💬 Ask me about<br>​Python (Pyrogram), MongoDB, Telegram bot automation, and Mobile-first development.<br>​⚡ Fun fact<br>​I am a long-distance runner! I recently completed a 30-day running challenge during Ramadan, covering 2km every single day.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=435&lines=Full+Stack+Developer;Telegram+Bot+Expert;Long+Distance+Runner;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 
 ## 🌐 Socials:
