@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=onestar" alt="github trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=radical" alt="GitHub Profile Details" />
 </p>
 
 ### ✍️ Random Dev Quote
