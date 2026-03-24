@@ -18,10 +18,19 @@
 # 🏅 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight)
 
-# ✍️ Random Dev Quote
+# 🛠️ Most Used Languages
+
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
+
+# 🐍 GitHub Eating My Contributions
+
+![snake gif](https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg)
+
+# 📊 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=false)
 
 # 🔝 Featured Project
 
@@ -34,15 +43,12 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=tokyonight&hide_border=false" alt="Profile-README" />
 
-# 🛠️ Most Used Languages
-
+# ✍️ Random Dev Quote
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-## 🐍 GitHub Eating My Contributions
-
-![snake gif](https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg)
-# 📊 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=false)
+# 📈 Visitor Counter 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
