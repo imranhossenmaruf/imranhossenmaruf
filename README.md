@@ -39,16 +39,20 @@
 <hr>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=radical" alt="DESI-MLH Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=tokyonight" alt="DESI-MLH Project" />
 </p>
 
 <br/>
 
-## **🔝 Top Repositories**
+<br/>
+
+## **✍️ Random Dev Quote**
+<hr>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=radical&hide_border=false" alt="Profile-README" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+
 <br/>
 
 ## **🛠️ Most Used Languages**
