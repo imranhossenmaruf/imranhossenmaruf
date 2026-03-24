@@ -1,6 +1,8 @@
 # 💫 About Me:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=435&lines=Full+Stack+Developer;Telegram+Bot+Expert;Long+Distance+Runner;Tech+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&width=500&height=150&multiline=true&repeat=true&lines=🔭+I’m+currently+working+on+DESI+MLH+and+Unity+Run+Club;🌱+I’m+currently+learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python,+MongoDB,+and+Telegram+bots;⚡+Fun+fact:+I+am+a+long-distance+runner!" alt="Typing SVG" />
+  </a>
 </p>
 
 
