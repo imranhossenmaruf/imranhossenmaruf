@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight&hide_border=false)
-## **🏆 GitHub Profile Summary**
-<hr>
+#🏆 GitHub Profile Summary:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight)
 
 ## **✍️ Random Dev Quote**
