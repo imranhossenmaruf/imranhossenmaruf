@@ -72,12 +72,17 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=rule34" alt="Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fimranhossenmaruf%2Fvisits&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7b2cbf&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+  <img src="https://vvc.vercel.app/imranhossenmaruf?color=ff0055&style=flat-square&label=V I S I T O R S" alt="Visitors" />
 </p>
+
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimranhossenmaruf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+  <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimranhossenmaruf&count_bg=%238A2BE2&title_bg=%232F2F2F&icon=cachet.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Views"/>
 </p>
