@@ -71,7 +71,15 @@
 # ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" />
+<p align="center">
+  <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=moebooru" alt="imranhossenmaruf" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/imranhossenmaruf/count.svg" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
