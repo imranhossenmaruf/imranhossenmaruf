@@ -1,0 +1,17 @@
+name: WakaTime Stats Sync
+
+on:
+  schedule:
+    - cron: '0 * * * *' # প্রতি ঘণ্টায় আপডেট হবে
+  workflow_dispatch: # চাইলে ম্যানুয়ালি রান করা যাবে
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TITLE: "True"
