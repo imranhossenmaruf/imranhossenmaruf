@@ -29,7 +29,7 @@
 ## **🔝 Top Repositories**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=radical" alt="Profile-README" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=radical&hide_border=false" alt="Profile-README" />
 </p>
 <br/>
 
