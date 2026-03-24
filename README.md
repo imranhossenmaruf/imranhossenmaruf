@@ -15,8 +15,6 @@
 <hr>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight)
 
-<br/>
-
 ## **✍️ Random Dev Quote**
 <hr>
 
