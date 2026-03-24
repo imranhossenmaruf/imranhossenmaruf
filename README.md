@@ -37,6 +37,6 @@
 <hr>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=ambient_gradient&hide_border=false" alt="Top Languages" />
 </p>
 <br/>
