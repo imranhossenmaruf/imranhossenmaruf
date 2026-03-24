@@ -72,14 +72,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=moebooru" alt="imranhossenmaruf" />
+  <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=rule34" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/imranhossenmaruf/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7b2cbf&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimranhossenmaruf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
 </p>
-
