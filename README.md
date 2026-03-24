@@ -51,6 +51,15 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranhossenmaruf&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</p>
+
+# 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 # 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg" />
 
