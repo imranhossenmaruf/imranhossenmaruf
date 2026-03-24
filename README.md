@@ -39,7 +39,7 @@
 <hr>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI-MLH&theme=radical" alt="DESI-MLH Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=radical" alt="DESI-MLH Project" />
 </p>
 
 <br/>
