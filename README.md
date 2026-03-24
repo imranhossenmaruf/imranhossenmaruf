@@ -66,3 +66,15 @@
 <hr>
 
 [![Facebook Post](https://img.shields.io/badge/Follow%20me%20on-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/iimranhossenmaruf1)
+
+# ☕ Support & Donations
+<hr>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.5px !important;">
+  </a>
+  <a href="https://ko-fi.com/ih_maruf" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" height="42">
+  </a>
+</p>
