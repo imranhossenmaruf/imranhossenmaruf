@@ -21,9 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Most Contributed Repositories
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=radical&hide_border=false" alt="Top Languages and Repo Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=radical" alt="DESI_MLH Project" />
@@ -33,4 +30,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=radical" alt="Profile-README" />
+</p>
+## 🛠️ Most Used Languages
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=radical&hide_border=false" alt="imranhossenmaruf Top Languages" />
 </p>
