@@ -13,51 +13,31 @@
 # 🏅 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight)
 
-## **✍️ Random Dev Quote**
-<hr>
+# ✍️ Random Dev Quote
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<br/>
-
-<br/>
-
-## **🔝 Featured Project**
-<hr>
+# 🔝 Featured Project
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=tokyonight" alt="DESI-MLH Project" />
 </p>
 
-<br/>
-
-<br/>
-
-## **✍️ Random Dev Quote**
-<hr>
+# ✍️ Random Dev Quote
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<br/>
-<br/>
-
-## **🔝 Top Repositories**
-<hr>
+# 🔝 Top Repositories
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=tokyonight&hide_border=false" alt="Profile-README" />
-</p>
 
-<br/>
-
-## **🛠️ Most Used Languages**
-<hr>
+# 🛠️ Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
-<br/>
