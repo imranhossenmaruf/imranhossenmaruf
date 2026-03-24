@@ -42,7 +42,8 @@
 
 # 📊 GitHub Analysis
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iimranhossenmaruf&show_icons=true&theme=tokyonight&hide_border=false" alt="Imran's GitHub Stats" />
+</p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" />
 </p>
 
