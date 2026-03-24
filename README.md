@@ -13,7 +13,9 @@
 ![])
 
 ## 🏆 GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=onestar" alt="github trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
