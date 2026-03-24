@@ -29,5 +29,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI-MLH&theme=radical" alt="DESI-MLH" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=Unity-Run-Club&theme=radical" alt="Unity-Run-Club" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=radical" alt="Profile-README" />
 </p>
