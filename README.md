@@ -17,13 +17,21 @@
 <hr>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=radical" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 <br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ambient_gradient)
+<br/>
+
+## **✍️ Random Dev Quote**
+<hr>
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<br/>
 
 ### 🔝 Most Contributed Repositories
 
