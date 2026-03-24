@@ -35,7 +35,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
-## **🐍 GitHub Eating My Contributions**
-<hr>
+
+## 🐍 GitHub Eating My Contributions
 
 ![snake gif](https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg)
