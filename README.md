@@ -54,6 +54,16 @@
 </p>
 
 <br/>
+<br/>
+
+## **🔝 Top Repositories**
+<hr>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=tokyonight&hide_border=false" alt="Profile-README" />
+</p>
+
+<br/>
 
 ## **🛠️ Most Used Languages**
 <hr>
