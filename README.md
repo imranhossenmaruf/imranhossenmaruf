@@ -13,7 +13,7 @@
 ![])
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=radical" alt="GitHub Profile Details" />
 </p>
 
