@@ -30,7 +30,16 @@
 
 # 🐍 GitHub Eating My Contributions
 
-![snake gif](https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg)
+![snake gif])
+
+## 📅 Contribution Calendar
+
+
+![Contribution Calendar](https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&show_icons=true&theme=tokyonight&custom_title=My+Contributions)
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=false)
 
 # 📊 GitHub Activity Graph
 
