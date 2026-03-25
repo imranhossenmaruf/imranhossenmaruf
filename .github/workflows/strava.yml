@@ -1,0 +1,13 @@
+name: Update Strava Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # প্রতিদিন রাত ১২টায় আপডেট হবে
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch Strava Data
+        run: echo "Updating Strava Stats..."
