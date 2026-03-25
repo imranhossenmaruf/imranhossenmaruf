@@ -12,9 +12,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # এখানে GITHUB_TOKEN এর বদলে GH_TOKEN ব্যবহার করুন
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # এটি আপনার তৈরি করা PAT টোকেন
           SHOW_PROFILE_VIEWS: "false"
-          # SHOW_TITLE লাইনটি এখান থেকে সরিয়ে ফেলা হয়েছে কারণ এটি এখন ইনভ্যালিড
           SHOW_SHORT_INFO: "true"
           SHOW_TOTAL_CODE_TIME: "true"
           SHOW_LANGUAGE: "true"
