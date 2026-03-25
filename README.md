@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/4uLU6vMCjUqZ3Ym9GL3pDY">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=1a1b26&border_color=7b2cbf&bar_color=1db954&title_color=ffffff&artist_color=b3b3b3" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/track/6Zp3P5p5p5p5p5p5p5p5p5">
+    <img src="https://spotify-gh-projects.vercel.app/api/view?uid=5649f04dc9354f7cb18a4fb4cd05cda9&cover_image=true&theme=tokyonight" width="400" />
   </a>
 </p>
