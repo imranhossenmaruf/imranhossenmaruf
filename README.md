@@ -90,6 +90,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rykukje5out4zlizur7v4e2d7e&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true" alt="Spotify Profile" />
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=1a1b26&border_color=7b2cbf&bar_color=1db954&title_color=ffffff&artist_color=b3b3b3" alt="Spotify Now Playing" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imranhossainmaruf&label=Profile%20Views&color=7b2cbf&style=flat" alt="Views" />
 </p>
