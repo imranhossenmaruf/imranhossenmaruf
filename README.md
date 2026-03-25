@@ -88,13 +88,37 @@
   <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
 </p>
 
-### 🏃‍♂️ My Running Activity
-<p align="center">
-  <a href="https://www.strava.com/athletes/157018965">
-    <img src="https://strava-stats.vercel.app/api/stats/157018965?theme=tokyonight&show_logo=true&units=metric" alt="Strava Stats" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 🏃‍♂️ My Running Activity (Unity Run Club)
+
+<table border="0">
+  <tr>
+    <td width="300" align="center" style="background-color: #1a1b26; border-radius: 15px; padding: 20px; border: 2px solid #7b2cbf;">
+      <a href="https://www.strava.com/athletes/157018965">
+        <img src="https://img.shields.io/badge/STRAVA-157018965-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="100" />
+      <br>
+      <font color="#ffffff" size="4"><b>Imran Hossain Maruf</b></font><br>
+      <font color="#b3b3b3">Active Runner & Community Leader</font>
+      <br><br>
+      <a href="https://www.strava.com/athletes/157018965">
+        <img src="https://img.shields.io/badge/View_My_Runs-FC4C02?style=flat-square&logo=strava&logoColor=white" />
+      </a>
+    </td>
+    <td width="400" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=imranhossainmaruf&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 Quick Stats
+* 👟 **Total Distance:** 🏁 Tracking daily on Strava
+* 🥇 **Goal:** Completed 30-Day Running Challenge (March 2026)
+* 📍 **Location:** Bangladesh 🇧🇩
