@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <a href="Https://open.spotify.com/track/62sxWFME9Lhw1Xy3YgrVc6?si=AfCahv8gTSKCkU13ULgW3g">
-    <img src="https://img.shields.io/badge/🎵_Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <a href="Https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e?si=otkwi7oAQfuBfQtxls73Xw">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=imranhossenmaruf&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true" alt="Favorite Music" />
   </a>
 </p>
