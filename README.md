@@ -64,7 +64,7 @@
 
 # 📊 Coding Activity (WakaTime)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranhossenmaruf&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iimranhossenmaruf&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
 # 🐍 Contribution Snake
