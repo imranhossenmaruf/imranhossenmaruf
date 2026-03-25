@@ -90,33 +90,3 @@
 
 <div align="center">
 
-### 🏃‍♂️ My Running Activity (Unity Run Club)
-
-<div align="center">
-
-### 🏃‍♂️ My Running Activity (Strava)
-
-<a href="https://www.strava.com/athletes/159259381">
-  <img src="https://img.shields.io/badge/RUNNING-Check_My_Daily_Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava" />
-</a>
-
-<br><br>
-
-| 👟 Athlete | 📍 Location | 🏁 Goal |
-| :--- | :--- | :--- |
-| **Imran Hossain Maruf** | Bangladesh 🇧🇩 | **30-Day Challenge** |
-
-<br>
-
-<a href="https://www.strava.com/athletes/159259381">
-  <img src="https://strava-badge.vercel.app/api/badge?id=159259381&style=tokyonight" alt="Strava Badge" />
-</a>
-
-</div>
-
----
-
-### 📊 Training Log Summary
-* 🚶 **Daily Activity:** Tracked via Strava App
-* 📈 **Progress:** Updated in real-time on my [Strava Profile](https://www.strava.com/athletes/159259381)
-* 👟 **Running Club:** Active member of **Unity Run Club**
