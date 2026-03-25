@@ -57,6 +57,11 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=tokyonight" alt="Gist Card" />
 </p>
 
+### 🏗️ My GitHub Contribution City
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D City Graph" />
+</p>
+
 # 📊 Coding Activity (WakaTime)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iimranhossenmaruf&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
@@ -90,7 +95,3 @@
 
 <div align="center">
 
-### 🏗️ My GitHub Contribution City
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D City Graph" />
-</p>
