@@ -92,12 +92,31 @@
 
 ### 🏃‍♂️ My Running Activity (Unity Run Club)
 
-<p align="center">
-  <a href="https://www.strava.com/athletes/159259381">
-    <img src="https://strava-stats.vercel.app/api/stats/159259381?theme=tokyonight&show_logo=true&units=metric" alt="Strava Running Stats" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Runner-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />
-</p>
+### 🏃‍♂️ My Running Activity (Strava)
+
+<a href="https://www.strava.com/athletes/159259381">
+  <img src="https://img.shields.io/badge/RUNNING-Check_My_Daily_Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava" />
+</a>
+
+<br><br>
+
+| 👟 Athlete | 📍 Location | 🏁 Goal |
+| :--- | :--- | :--- |
+| **Imran Hossain Maruf** | Bangladesh 🇧🇩 | **30-Day Challenge** |
+
+<br>
+
+<a href="https://www.strava.com/athletes/159259381">
+  <img src="https://strava-badge.vercel.app/api/badge?id=159259381&style=tokyonight" alt="Strava Badge" />
+</a>
+
+</div>
+
+---
+
+### 📊 Training Log Summary
+* 🚶 **Daily Activity:** Tracked via Strava App
+* 📈 **Progress:** Updated in real-time on my [Strava Profile](https://www.strava.com/athletes/159259381)
+* 👟 **Running Club:** Active member of **Unity Run Club**
