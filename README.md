@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <a href="Https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e?si=otkwi7oAQfuBfQtxls73Xw">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=imranhossenmaruf&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true" alt="Favorite Music" />
+  <a href="https://open.spotify.com/track/4uLU6vMCjUqZ3Ym9GL3pDY">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=1a1b26&border_color=7b2cbf&bar_color=1db954&title_color=ffffff&artist_color=b3b3b3" alt="Spotify Now Playing" />
   </a>
 </p>
