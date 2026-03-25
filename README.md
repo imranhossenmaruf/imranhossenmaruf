@@ -89,7 +89,15 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/4S9fTf01EwIe22xW0uC42P">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=imranhossainmaruf&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true" alt="Spotify Playing" />
+  <a href="https://open.spotify.com/user/iimranhossenmaruf6">
+    <img src="https://img.shields.io/badge/🎧_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/iimranhossenmaruf6">
+    <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="150" />
+  </a>
+  <br>
+  <b><a href="https://open.spotify.com/user/iimranhossenmaruf6">Click here to listen to my favorite track!</a></b>
 </p>
