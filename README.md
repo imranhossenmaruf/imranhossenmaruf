@@ -87,3 +87,12 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
 </p>
+
+### 🏃‍♂️ My Running Activity
+<p align="center">
+  <img src="https://strava-stats.vercel.app/api/stats/216192?theme=tokyonight&show_logo=true&units=metric" alt="Strava Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iimranhossenmaruf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
