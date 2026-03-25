@@ -77,6 +77,13 @@
 # ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+# listen Music
+<p align="center">
+  <a href="https://www.last.fm/user/IH_Maruf">
+    <img src="https://novatorem.vercel.app/api/orchestrator?user=IH_Maruf&background_type=blur_dark&border_color=7b2cbf" alt="Last.fm Now Playing" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
 </p>
