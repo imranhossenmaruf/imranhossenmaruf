@@ -80,20 +80,3 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
 </p>
-
-# listen Music
-<p align="center">
-  <a href="https://www.last.fm/user/IH_Maruf">
-    <img src="https://novatorem.vercel.app/api/orchestrator?user=IH_Maruf&background_type=blur_dark&border_color=7b2cbf" alt="Last.fm Now Playing" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.last.fm/user/IH_Maruf">
-    <img src="https://lastfm-recently-played.vercel.app/api/recent-played?user=IH_Maruf&theme=tokyonight&count=1" alt="Recently Played" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="100" />
-</p>
