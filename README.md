@@ -87,3 +87,9 @@
     <img src="https://novatorem.vercel.app/api/orchestrator?user=IH_Maruf&background_type=blur_dark&border_color=7b2cbf" alt="Last.fm Now Playing" />
   </a>
 </p>
+
+<p align="center">
+  <a href="Https://open.spotify.com/track/62sxWFME9Lhw1Xy3YgrVc6?si=AfCahv8gTSKCkU13ULgW3g">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
