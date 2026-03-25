@@ -90,10 +90,16 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=1a1b26&border_color=7b2cbf&bar_color=1db954&title_color=ffffff&artist_color=b3b3b3" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/Spotify-Listening_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranhossainmaruf&label=Profile%20Views&color=7b2cbf&style=flat" alt="Views" />
+  <img src="https://i.scdn.co/image/ab6775700000ee856d47b9e4e31a1c7cd812c83d" width="300" style="border-radius: 20px; border: 2px solid #7b2cbf;" />
+  <br>
+  <b>🎵 <a href="https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e">imranhossainmaruf's Favorite Mix</a></b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="150" />
 </p>
