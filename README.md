@@ -90,9 +90,11 @@
 
 ### 🏃‍♂️ My Running Activity
 <p align="center">
-  <img src="https://strava-stats.vercel.app/api/stats/216192?theme=tokyonight&show_logo=true&units=metric" alt="Strava Stats" />
+  <a href="https://www.strava.com/athletes/157018965">
+    <img src="https://strava-stats.vercel.app/api/stats/157018965?theme=tokyonight&show_logo=true&units=metric" alt="Strava Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iimranhossenmaruf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranhossainmaruf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
