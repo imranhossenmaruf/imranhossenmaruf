@@ -89,15 +89,13 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/iimranhossenmaruf6">
-    <img src="https://img.shields.io/badge/🎧_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/iimranhossenmaruf6">
-    <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="150" />
-  </a>
+  <kbd>
+    <a href="https://open.spotify.com/track/xxxxxx...2">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b40026e6e22479e0a6e74677" width="300" height="300" style="border-radius: 15px;" />
+    </a>
+  </kbd>
   <br>
-  <b><a href="https://open.spotify.com/user/iimranhossenmaruf6">Click here to listen to my favorite track!</a></b>
+  <b>এখন বাজছে: <a href="https://open.spotify.com/track/xxxxxx...2">Favorite Track on Spotify</a></b>
+  <br>
+  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="100" />
 </p>
