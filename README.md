@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/6Zp3P5p5p5p5p5p5p5p5p5">
-    <img src="https://spotify-gh-projects.vercel.app/api/view?uid=5649f04dc9354f7cb18a4fb4cd05cda9&cover_image=true&theme=tokyonight" width="400" />
+  <a href="https://open.spotify.com/track/4S9fTf01EwIe22xW0uC42P">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=imranhossainmaruf&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true" alt="Spotify Playing" />
   </a>
 </p>
