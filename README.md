@@ -89,11 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732c5b24ecfa39523a75c993c4" width="300" style="border-radius: 10px;" />
-  <br>
-  <b>💿 Album: Global Warming</b><br>
-  <b>👤 Artist: Pitbull</b><br>
-  <a href="https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy">
-    <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rykukje5out4zlizur7v4e2d7e&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true" alt="Spotify Profile" />
   </a>
 </p>
