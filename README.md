@@ -89,13 +89,11 @@
 </p>
 
 <p align="center">
-  <kbd>
-    <a href="https://open.spotify.com/track/xxxxxx...2">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b40026e6e22479e0a6e74677" width="300" height="300" style="border-radius: 15px;" />
-    </a>
-  </kbd>
+  <img src="https://i.scdn.co/image/ab67616d0000b2732c5b24ecfa39523a75c993c4" width="300" style="border-radius: 10px;" />
   <br>
-  <b>এখন বাজছে: <a href="https://open.spotify.com/track/xxxxxx...2">Favorite Track on Spotify</a></b>
-  <br>
-  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="100" />
+  <b>💿 Album: Global Warming</b><br>
+  <b>👤 Artist: Pitbull</b><br>
+  <a href="https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy">
+    <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
