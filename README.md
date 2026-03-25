@@ -89,17 +89,11 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e">
-    <img src="https://img.shields.io/badge/Spotify-Listening_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://www.last.fm/user/IH_Maruf">
+    <img src="https://lastfm-recently-played.vercel.app/api/recent-played?user=IH_Maruf&theme=tokyonight&count=1" alt="Recently Played" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab6775700000ee856d47b9e4e31a1c7cd812c83d" width="300" style="border-radius: 20px; border: 2px solid #7b2cbf;" />
-  <br>
-  <b>🎵 <a href="https://open.spotify.com/user/31rykukje5out4zlizur7v4e2d7e">imranhossainmaruf's Favorite Mix</a></b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/music.gif" width="100" />
 </p>
