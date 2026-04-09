@@ -2,14 +2,20 @@
   <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-# 💫 About Me:
+---
+
+# 💫 About Me
+
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=800&height=180&multiline=true&repeat=true&lines=🔭+I'm+currently+working+on+DESI+MLH+and+Unity+Run+Club;🌱+I'm+currently+learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python,+MongoDB,+and+Telegram+bots;⚡+Fun+fact:+I+am+a+long-distance+runner!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=800&height=200&multiline=true&repeat=true&lines=🔭+Working+on+DESI+MLH+and+Unity+Run+Club;🌱+Learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python%2C+MongoDB+and+Telegram+bots;⚡+Fun+fact%3A+I+am+a+long-distance+runner!" alt="Typing SVG" />
   </a>
 </p>
 
-## 🌐 Connect with Me:
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
 <a href="https://facebook.com/iimranhossenmaruf1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://instagram.com/imranhossainmaruf"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
@@ -22,31 +28,32 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Frontend</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <h3>🎨 Frontend</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
     <td valign="top" width="33%">
-      <h3>Backend</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <h3>⚙️ Backend</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
     <td valign="top" width="33%">
-      <h3>Database & Tools</h3>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <h3>🗄️ Database & Tools</h3>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     </td>
   </tr>
@@ -55,20 +62,24 @@
 ---
 
 # 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=imranhossenmaruf&theme=tokyonight&no-bg=true&column=4&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=imranhossenmaruf&theme=tokyonight&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 # 📊 GitHub Analysis
+
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight" alt="Profile Summary" />
 </p>
+
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranhossenmaruf&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </p>
+
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranhossenmaruf&theme=tokyonight" alt="Repos Per Language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imranhossenmaruf&theme=tokyonight&utcOffset=6" alt="Productive Time" />
@@ -77,6 +88,7 @@
 ---
 
 # 🧩 LeetCode Stats
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/iimranhossenmaruf?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
@@ -84,96 +96,109 @@
 ---
 
 # 🗓️ Contribution Heatmap
+
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/7AA2F7/imranhossenmaruf" alt="Contribution Heatmap" />
+  <img width="100%" src="https://ghchart.rshah.org/7AA2F7/imranhossenmaruf" alt="GitHub Contribution Heatmap" />
 </p>
 
 ---
 
 # 📈 Activity Graph
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
 # 🏙️ GitHub Contribution City
+
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D City Graph" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
 # 🏃 Strava Running Stats
+
 <p align="center">
   <a href="https://www.strava.com/athletes/159259381">
-    <img src="https://img.shields.io/badge/View%20Full%20Profile%20on%20Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava Profile" />
+    <img src="https://img.shields.io/badge/View%20on%20Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />
   </a>
 </p>
 
 <!--START_SECTION:strava-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Distance-350.4%20km-FC4C02?style=flat-square&labelColor=1a1b27" alt="Total Distance" height="24"/>
-  <img src="https://img.shields.io/badge/Total%20Runs-73%20runs-FC4C02?style=flat-square&labelColor=1a1b27" alt="Total Runs" height="24"/>
-  <img src="https://img.shields.io/badge/All%20Time-37%20hours-FC4C02?style=flat-square&labelColor=1a1b27" alt="All Time" height="24"/>
+  <img src="https://img.shields.io/badge/Total%20Distance-350.4%20km-FC4C02?style=flat-square&labelColor=1a1b27" height="24" alt="Total Distance" />
+  <img src="https://img.shields.io/badge/Total%20Runs-73%20runs-FC4C02?style=flat-square&labelColor=1a1b27" height="24" alt="Total Runs" />
+  <img src="https://img.shields.io/badge/All%20Time-37%20hours-FC4C02?style=flat-square&labelColor=1a1b27" height="24" alt="All Time" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/2026%20Distance-174.6%20km-bb9af7?style=flat-square&labelColor=1a1b27" alt="YTD Distance" height="24"/>
-  <img src="https://img.shields.io/badge/2026%20Runs-42%20runs-bb9af7?style=flat-square&labelColor=1a1b27" alt="YTD Runs" height="24"/>
-  <img src="https://img.shields.io/badge/2026%20Time-17.8%20hours-bb9af7?style=flat-square&labelColor=1a1b27" alt="YTD Time" height="24"/>
+  <img src="https://img.shields.io/badge/2026%20Distance-174.6%20km-bb9af7?style=flat-square&labelColor=1a1b27" height="24" alt="YTD Distance" />
+  <img src="https://img.shields.io/badge/2026%20Runs-42%20runs-bb9af7?style=flat-square&labelColor=1a1b27" height="24" alt="YTD Runs" />
+  <img src="https://img.shields.io/badge/2026%20Time-17.8%20hours-bb9af7?style=flat-square&labelColor=1a1b27" height="24" alt="YTD Time" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Avg%20Pace-6m%2007s%20%2Fkm-e0af68?style=flat-square&labelColor=1a1b27" alt="Avg Pace" height="24"/>
-  <img src="https://img.shields.io/badge/Elevation%202026-682%20m-9ece6a?style=flat-square&labelColor=1a1b27" alt="Elevation" height="24"/>
+  <img src="https://img.shields.io/badge/Avg%20Pace-6m%2007s%20%2Fkm-e0af68?style=flat-square&labelColor=1a1b27" height="24" alt="Avg Pace" />
+  <img src="https://img.shields.io/badge/Elevation%202026-682%20m-9ece6a?style=flat-square&labelColor=1a1b27" height="24" alt="Elevation" />
 </p>
-
-<p align="right"><sub>🔄 Auto-updated daily by GitHub Actions</sub></p>
+<p align="right"><sub>🔄 Auto-updated daily</sub></p>
 <!--END_SECTION:strava-->
 
 ---
 
 # 🔝 Featured Projects
+
 <p align="center">
-  <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/DESI_MLH.svg" alt="DESI MLH" />
-  <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
+  <a href="https://github.com/imranhossenmaruf/DESI_MLH">
+    <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/DESI_MLH.svg" alt="DESI MLH" />
+  </a>
+  <a href="https://github.com/imranhossenmaruf/imranhossenmaruf">
+    <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
+  </a>
 </p>
 
 ---
 
 # 🏅 Holopin Badges
+
 <p align="center">
   <a href="https://holopin.io/@imranhossenmaruf">
-    <img src="https://holopin.me/@imranhossenmaruf" alt="Holopin Badges" />
+    <img src="https://holopin.me/@imranhossenmaruf" alt="My Holopin board" />
   </a>
 </p>
 
 ---
 
 # 😂 Dev Joke of the Day
+
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&textColor=%23c9d1d9&qColor=%237aa2f7&aColor=%23bb9af7&borderColor=%237aa2f7&codeColor=%23e0af68" alt="Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&textColor=%23c9d1d9&qColor=%237aa2f7&aColor=%23bb9af7&borderColor=%237aa2f7&codeColor=%23e0af68" alt="Dev Joke" width="600" />
 </p>
 
 ---
 
 # ✍️ Random Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
 
 # 🎵 Recently Played on Last.fm
+
 <p align="center">
   <a href="https://www.last.fm/user/IH_Maruf">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=IH_Maruf" alt="Recently Played on Last.fm" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=IH_Maruf" alt="Recently Played" />
   </a>
 </p>
 
