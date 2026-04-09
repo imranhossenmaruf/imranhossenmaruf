@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="220" fill="url(#sky)" rx="8"/>
+  <rect width="860" height="220" fill="url(#glow)" rx="8"/>
+
+  <!-- Stars (decorative) -->
+  <circle cx="40" cy="12" r="0.8" fill="white" opacity="0.4"/>
+  <circle cx="120" cy="8" r="0.6" fill="white" opacity="0.3"/>
+  <circle cx="250" cy="15" r="0.9" fill="white" opacity="0.5"/>
+  <circle cx="400" cy="6" r="0.7" fill="white" opacity="0.3"/>
+  <circle cx="550" cy="12" r="0.8" fill="white" opacity="0.4"/>
+  <circle cx="700" cy="9" r="0.6" fill="white" opacity="0.3"/>
+  <circle cx="820" cy="14" r="0.9" fill="white" opacity="0.5"/>
+
+  <!-- Title -->
+  <text x="430" y="20" text-anchor="middle" font-size="12" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">🏔️ 2026 GitHub Contribution Skyline</text>
+
+  <!-- Y-axis -->
+  <text x="8" y="183" font-size="8" fill="#565f89" font-family="Segoe UI,Arial" text-anchor="middle">0</text>
+<line x1="16" y1="180" x2="850" y2="180" stroke="#565f89" stroke-opacity="0.15" stroke-width="0.5"/><text x="8" y="128" font-size="8" fill="#565f89" font-family="Segoe UI,Arial" text-anchor="middle">69</text>
+<line x1="16" y1="125" x2="850" y2="125" stroke="#565f89" stroke-opacity="0.15" stroke-width="0.5"/><text x="8" y="73" font-size="8" fill="#565f89" font-family="Segoe UI,Arial" text-anchor="middle">138</text>
+<line x1="16" y1="70" x2="850" y2="70" stroke="#565f89" stroke-opacity="0.15" stroke-width="0.5"/>
+  <!-- Baseline -->
+  <line x1="20" y1="180" x2="850" y2="180" stroke="#7aa2f7" stroke-opacity="0.4" stroke-width="1"/>
+  <!-- Month labels -->
+  <text x="20" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Jan</text><text x="84" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Feb</text><text x="164" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Mar</text><text x="228" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Apr</text><text x="292" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">May</text><text x="372" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Jun</text><text x="436" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Jul</text><text x="500" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Aug</text><text x="580" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Sep</text><text x="644" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Oct</text><text x="708" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Nov</text><text x="788" y="198" font-size="9" fill="#565f89" font-family="Segoe UI,Arial">Dec</text>
+  <!-- Bars -->
+  <rect x="20" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="36" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="52" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="68" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="84" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="100" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="116" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="132" y="178" width="14" height="2" fill="#1e2030" rx="1"/><polygon points="162,101 166,97 166,176 162,180" fill="#1a1b27" opacity="0.8"/><polygon points="148,101 162,101 166,97 152,97" fill="#bb9af7" opacity="0.9"/><rect x="148" y="101" width="14" height="79" fill="#bb9af7" rx="1"/><polygon points="178,151 182,147 182,176 178,180" fill="#1a1b27" opacity="0.8"/><polygon points="164,151 178,151 182,147 168,147" fill="#7aa2f7" opacity="0.9"/><rect x="164" y="151" width="14" height="29" fill="#7aa2f7" rx="1"/><rect x="180" y="178" width="14" height="2" fill="#1e2030" rx="1"/><polygon points="210,73 214,69 214,176 210,180" fill="#1a1b27" opacity="0.8"/><polygon points="196,73 210,73 214,69 200,69" fill="#ff9e64" opacity="0.9"/><rect x="196" y="73" width="14" height="107" fill="#ff9e64" rx="1"/><polygon points="226,169 230,165 230,176 226,180" fill="#1a1b27" opacity="0.8"/><polygon points="212,169 226,169 230,165 216,165" fill="#3d59a1" opacity="0.9"/><rect x="212" y="169" width="14" height="11" fill="#3d59a1" rx="1"/><polygon points="242,70 246,66 246,176 242,180" fill="#1a1b27" opacity="0.8"/><polygon points="228,70 242,70 246,66 232,66" fill="#ff9e64" opacity="0.9"/><rect x="228" y="70" width="14" height="110" fill="#ff9e64" rx="1"/><polygon points="258,160 262,156 262,176 258,180" fill="#1a1b27" opacity="0.8"/><polygon points="244,160 258,160 262,156 248,156" fill="#3d59a1" opacity="0.9"/><rect x="244" y="160" width="14" height="20" fill="#3d59a1" rx="1"/><rect x="260" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="276" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="292" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="308" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="324" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="340" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="356" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="372" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="388" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="404" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="420" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="436" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="452" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="468" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="484" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="500" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="516" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="532" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="548" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="564" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="580" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="596" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="612" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="628" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="644" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="660" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="676" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="692" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="708" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="724" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="740" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="756" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="772" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="788" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="804" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="820" y="178" width="14" height="2" fill="#1e2030" rx="1"/><rect x="836" y="178" width="14" height="2" fill="#1e2030" rx="1"/>
+
+  <!-- Stats row -->
+  <text x="20" y="212" font-size="9" fill="#bb9af7" font-family="Segoe UI,Arial">⚡ 446 total contributions</text>
+  <text x="430" y="212" text-anchor="middle" font-size="9" fill="#9ece6a" font-family="Segoe UI,Arial">📅 18 active days</text>
+  <text x="850" y="212" text-anchor="end" font-size="9" fill="#ff9e64" font-family="Segoe UI,Arial">🔥 74 best day</text>
+</svg>
