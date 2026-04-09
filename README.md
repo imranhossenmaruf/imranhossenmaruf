@@ -86,7 +86,7 @@
 
 <!--START_SECTION:waka-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranhossenmaruf&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="WakaTime Stats" />
+  <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/waka-placeholder.svg" alt="WakaTime Coding Stats" />
 </p>
 <!--END_SECTION:waka-->
 
