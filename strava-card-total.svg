@@ -1,48 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215">
-  <defs>
-    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FC4C02" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#1a1b27" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="clip"><rect rx="8" width="495" height="215"/></clipPath>
-  </defs>
-  <!-- Background -->
-  <rect rx="8" width="495" height="215" fill="#1a1b27" stroke="#FC4C02" stroke-width="1" stroke-opacity="0.6"/>
-  <rect width="495" height="215" fill="url(#g1)" clip-path="url(#clip)"/>
-  <!-- Strava logo circle -->
-  <circle cx="30" cy="32" r="14" fill="#FC4C02"/>
-  <text x="30" y="37" text-anchor="middle" font-size="14" fill="white" font-family="Arial">🏃</text>
-  <!-- Title -->
-  <text x="52" y="26" font-size="15" font-weight="bold" fill="#FC4C02" font-family="Segoe UI,Arial">Strava Running Stats</text>
-  <text x="52" y="42" font-size="11" fill="#6e7681" font-family="Segoe UI,Arial">All-time Performance</text>
-  <!-- Divider -->
-  <line x1="20" y1="54" x2="475" y2="54" stroke="#FC4C02" stroke-opacity="0.3" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#FC4C02" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#1a1b27" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="c"><rect rx="10" width="860" height="220"/></clipPath>
+</defs>
+<rect rx="10" width="860" height="220" fill="#1a1b27" stroke="#FC4C02" stroke-width="1.2" stroke-opacity="0.7"/>
+<rect width="860" height="220" fill="url(#bg)" clip-path="url(#c)"/>
 
-  <!-- Stat 1: Total Distance -->
-  <rect x="20" y="66" width="140" height="64" rx="6" fill="#161b22" stroke="#FC4C02" stroke-opacity="0.2" stroke-width="1"/>
-  <text x="90" y="86" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">Total Distance</text>
-  <text x="90" y="110" text-anchor="middle" font-size="22" font-weight="bold" fill="#FC4C02" font-family="Segoe UI,Arial">350.4</text>
-  <text x="90" y="124" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
+<!-- Header -->
+<circle cx="38" cy="36" r="22" fill="#FC4C02" opacity="0.15" stroke="#FC4C02" stroke-width="1"/>
+<text x="38" y="42" text-anchor="middle" font-size="20">🏃</text>
+<text x="70" y="28" font-size="17" font-weight="bold" fill="#FC4C02" font-family="Segoe UI,Arial">Strava Running Stats</text>
+<text x="70" y="46" font-size="11" fill="#565f89" font-family="Segoe UI,Arial">All-time Performance · strava.com/athletes/159259381</text>
+<line x1="24" y1="58" x2="836" y2="58" stroke="#FC4C02" stroke-opacity="0.25" stroke-width="1"/>
 
-  <!-- Stat 2: Total Runs -->
-  <rect x="178" y="66" width="140" height="64" rx="6" fill="#161b22" stroke="#7aa2f7" stroke-opacity="0.2" stroke-width="1"/>
-  <text x="248" y="86" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">Total Runs</text>
-  <text x="248" y="110" text-anchor="middle" font-size="22" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">73</text>
-  <text x="248" y="124" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">activities</text>
+<!-- 4 Stat boxes -->
+<rect x="24"  y="70" width="190" height="78" rx="8" fill="#161b22" stroke="#FC4C02"  stroke-opacity="0.25" stroke-width="1"/>
+<rect x="228" y="70" width="190" height="78" rx="8" fill="#161b22" stroke="#7aa2f7" stroke-opacity="0.25" stroke-width="1"/>
+<rect x="432" y="70" width="190" height="78" rx="8" fill="#161b22" stroke="#9ece6a" stroke-opacity="0.25" stroke-width="1"/>
+<rect x="636" y="70" width="200" height="78" rx="8" fill="#161b22" stroke="#bb9af7" stroke-opacity="0.25" stroke-width="1"/>
 
-  <!-- Stat 3: Total Time -->
-  <rect x="336" y="66" width="140" height="64" rx="6" fill="#161b22" stroke="#9ece6a" stroke-opacity="0.2" stroke-width="1"/>
-  <text x="406" y="86" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">Total Time</text>
-  <text x="406" y="110" text-anchor="middle" font-size="22" font-weight="bold" fill="#9ece6a" font-family="Segoe UI,Arial">37</text>
-  <text x="406" y="124" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">hours</text>
+<text x="119" y="96"  text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">Total Distance</text>
+<text x="119" y="124" text-anchor="middle" font-size="28" font-weight="bold" fill="#FC4C02" font-family="Segoe UI,Arial">350.4</text>
+<text x="119" y="140" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
 
-  <!-- Progress bar: distance goal -->
-  <text x="20" y="153" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">Distance goal progress (500 km)</text>
-  <rect x="20" y="159" width="455" height="6" rx="3" fill="#161b22"/>
-  <rect x="20" y="159" width="318" height="6" rx="3" fill="#FC4C02"/>
-  <text x="475" y="169" text-anchor="end" font-size="10" fill="#FC4C02" font-family="Segoe UI,Arial">70.1%</text>
+<text x="323" y="96"  text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">Total Runs</text>
+<text x="323" y="124" text-anchor="middle" font-size="28" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">73</text>
+<text x="323" y="140" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">activities</text>
 
-  <!-- Footer -->
-  <text x="20" y="195" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">strava.com/athletes/159259381 · Auto-updated daily</text>
-  <text x="475" y="195" text-anchor="end" font-size="9" fill="#FC4C02" font-family="Segoe UI,Arial" font-weight="bold">STRAVA</text>
+<text x="527" y="96"  text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">Total Time</text>
+<text x="527" y="124" text-anchor="middle" font-size="28" font-weight="bold" fill="#9ece6a" font-family="Segoe UI,Arial">37.0</text>
+<text x="527" y="140" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">hours</text>
+
+<text x="736" y="96"  text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">Longest Run</text>
+<text x="736" y="124" text-anchor="middle" font-size="28" font-weight="bold" fill="#bb9af7" font-family="Segoe UI,Arial">21.5</text>
+<text x="736" y="140" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
+
+<!-- Progress bar -->
+<text x="24" y="166" font-size="10" fill="#8b949e" font-family="Segoe UI,Arial">Annual distance goal progress · 350.4 / 500 km</text>
+<rect x="24" y="172" width="790" height="8" rx="4" fill="#161b22"/>
+<rect x="24" y="172" width="554" height="8" rx="4" fill="#FC4C02"/>
+<text x="814" y="180" text-anchor="end" font-size="10" fill="#FC4C02" font-family="Segoe UI,Arial" font-weight="bold">70.1%</text>
+
+<!-- Footer -->
+<text x="24"  y="208" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Auto-updated daily by GitHub Actions</text>
+<text x="836" y="208" text-anchor="end" font-size="10" fill="#FC4C02" font-family="Segoe UI,Arial" font-weight="bold" letter-spacing="1">STRAVA</text>
 </svg>
