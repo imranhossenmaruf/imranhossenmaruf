@@ -187,6 +187,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imranhossenmaruf.imranhossenmaruf&left_text=Profile%20Views&left_color=%231a1b27&right_color=%237aa2f7" alt="Profile Views" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/imranhossenmaruf?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers" />
+<img src="https://img.shields.io/github/stars/imranhossenmaruf?label=Total+Stars&style=for-the-badge&color=e0af68&labelColor=1a1b27" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/imranhossenmaruf/imranhossenmaruf?label=Last+Updated&style=for-the-badge&color=9ece6a&labelColor=1a1b27" alt="Last Updated" />
+
+</div>
