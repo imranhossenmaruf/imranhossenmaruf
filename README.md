@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=800&height=180&multiline=true&repeat=true&lines=🔭+I’m+currently+working+on+DESI+MLH+and+Unity+Run+Club;🌱+I’m+currently+learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python,+MongoDB,+and+Telegram+bots;⚡+Fun+fact:+I+am+a+long-distance+runner!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=800&height=180&multiline=true&repeat=true&lines=🔭+I'm+currently+working+on+DESI+MLH+and+Unity+Run+Club;🌱+I'm+currently+learning+Advanced+React.js+and+Next.js;💬+Ask+me+about+Python,+MongoDB,+and+Telegram+bots;⚡+Fun+fact:+I+am+a+long-distance+runner!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,13 +47,11 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight" alt="Top Langs" />
-  
   <img width="49%" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=tokyonight" alt="Gist Card" />
 </p>
 
@@ -82,7 +80,7 @@
 # ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# listen Music
+# 🎵 Now Playing
 <p align="center">
   <a href="https://www.last.fm/user/IH_Maruf">
     <img src="https://novatorem.vercel.app/api/orchestrator?user=IH_Maruf&background_type=blur_dark&border_color=7b2cbf" alt="Last.fm Now Playing" />
@@ -92,6 +90,3 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
 </p>
-
-<div align="center">
-
