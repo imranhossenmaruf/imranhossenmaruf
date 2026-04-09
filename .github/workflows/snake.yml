@@ -1,34 +1,29 @@
 name: Generate Snake
 
-on:
+"on":
   schedule:
-    - cron: "0 */12 * * *" # প্রতি ১২ ঘণ্টা পরপর রান হবে
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
 
-env:
-  # Node.js 24 এ অপ্ট-ইন করার জন্য এই এনভায়রনমেন্ট ভেরিয়েবল যোগ করা হয়েছে
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        # লেটেস্ট ভার্সন ব্যবহারের চেষ্টা করা হয়েছে
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: imranhossenmaruf
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        
+
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
