@@ -18,6 +18,7 @@
 <a href="mailto:iimranhossenmaruf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/iimranhossenmaruf"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.strava.com/athletes/159259381"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
+<a href="https://wakatime.com/@imranhossenmaruf"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
 </p>
 
 ---
@@ -81,6 +82,16 @@
 
 ---
 
+# ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranhossenmaruf&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="WakaTime Stats" />
+</p>
+<!--END_SECTION:waka-->
+
+---
+
 # 🧩 LeetCode Stats
 
 <p align="center">
@@ -109,6 +120,14 @@
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
+</p>
+
+---
+
+# 🏔️ GitHub Contribution Skyline
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/github-skyline-2026.svg" alt="GitHub Skyline 2026" />
 </p>
 
 ---
@@ -177,6 +196,14 @@
   <a href="https://www.last.fm/user/IH_Maruf">
     <img src="https://lastfm-recently-played.vercel.app/api?user=IH_Maruf" alt="Recently Played" />
   </a>
+</p>
+
+---
+
+# 🗺️ Visitor World Map
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/visitor-map.svg" alt="Visitor World Map" />
 </p>
 
 ---
