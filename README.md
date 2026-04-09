@@ -38,7 +38,9 @@
 </table>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imranhossenmaruf&theme=tokyonight&no-bg=true&column=4)
+<p align="center">
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=imranhossenmaruf&theme=tokyonight&no-bg=true&column=4&margin-w=5" alt="GitHub Trophies" />
+</p>
 
 # 📊 GitHub Analysis
 <p align="center">
