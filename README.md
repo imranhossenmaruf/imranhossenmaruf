@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imranhossenmaruf.imranhossenmaruf&left_text=Profile%20Views&left_color=%231a1b27&right_color=%237aa2f7" alt="Profile Views" />
 </div>
 
 ---
@@ -129,28 +129,11 @@
 
 # 🏃 Strava Running Stats
 
-<p align="center">
-  <a href="https://www.strava.com/athletes/159259381">
-    <img src="https://img.shields.io/badge/View%20on%20Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />
-  </a>
-</p>
-
 <!--START_SECTION:strava-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Distance-350.4%20km-FC4C02?style=flat-square&labelColor=1a1b27" height="24" alt="Total Distance" />
-  <img src="https://img.shields.io/badge/Total%20Runs-73%20runs-FC4C02?style=flat-square&labelColor=1a1b27" height="24" alt="Total Runs" />
-  <img src="https://img.shields.io/badge/All%20Time-37%20hours-FC4C02?style=flat-square&labelColor=1a1b27" height="24" alt="All Time" />
+  <img width="49%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-total.svg" alt="Strava Total Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-2026.svg" alt="Strava 2026 Stats" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/2026%20Distance-174.6%20km-bb9af7?style=flat-square&labelColor=1a1b27" height="24" alt="YTD Distance" />
-  <img src="https://img.shields.io/badge/2026%20Runs-42%20runs-bb9af7?style=flat-square&labelColor=1a1b27" height="24" alt="YTD Runs" />
-  <img src="https://img.shields.io/badge/2026%20Time-17.8%20hours-bb9af7?style=flat-square&labelColor=1a1b27" height="24" alt="YTD Time" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Avg%20Pace-6m%2007s%20%2Fkm-e0af68?style=flat-square&labelColor=1a1b27" height="24" alt="Avg Pace" />
-  <img src="https://img.shields.io/badge/Elevation%202026-682%20m-9ece6a?style=flat-square&labelColor=1a1b27" height="24" alt="Elevation" />
-</p>
-<p align="right"><sub>🔄 Auto-updated daily</sub></p>
 <!--END_SECTION:strava-->
 
 ---
@@ -205,5 +188,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imranhossenmaruf.imranhossenmaruf&left_text=Profile%20Views&left_color=%231a1b27&right_color=%237aa2f7" alt="Profile Views" />
 </p>
