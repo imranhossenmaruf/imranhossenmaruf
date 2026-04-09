@@ -16,9 +16,11 @@
 <a href="https://linkedin.com/in/iimranhossenmaruf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.gg/RvWXsmZFZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:iimranhossenmaruf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.strava.com/athletes/159259381"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
 <a href="https://leetcode.com/iimranhossenmaruf"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.strava.com/athletes/159259381"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
 </p>
+
+---
 
 # 💻 Tech Stack:
 <table>
@@ -50,52 +52,100 @@
   </tr>
 </table>
 
+---
+
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy-nu.vercel.app/?username=imranhossenmaruf&theme=tokyonight&no-bg=true&column=4&margin-w=5" alt="GitHub Trophies" />
 </p>
 
+---
+
 # 📊 GitHub Analysis
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranhossenmaruf&theme=tokyonight" alt="Profile Summary" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranhossenmaruf&theme=tokyonight" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" alt="Streak Stats" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranhossenmaruf&theme=tokyonight" alt="Repos Per Language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imranhossenmaruf&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </p>
+
+---
 
 # 🧩 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/iimranhossenmaruf?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
+---
+
 # 🗓️ Contribution Heatmap
 <p align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/imranhossenmaruf" alt="Contribution Heatmap" />
+  <img width="100%" src="https://ghchart.rshah.org/7AA2F7/imranhossenmaruf" alt="Contribution Heatmap" />
 </p>
 
-### 🏗️ My GitHub Contribution City
+---
+
+# 📈 Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+# 🏙️ GitHub Contribution City
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D City Graph" />
 </p>
 
-# 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg" />
+---
 
-# 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=false)
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+# 🏃 Strava Running Stats
+<p align="center">
+  <a href="https://www.strava.com/athletes/159259381">
+    <img src="https://img.shields.io/badge/View%20Full%20Profile%20on%20Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava Profile" />
+  </a>
+</p>
+
+<!--START_SECTION:strava-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Distance-350.4%20km-FC4C02?style=flat-square&labelColor=1a1b27" alt="Total Distance" height="24"/>
+  <img src="https://img.shields.io/badge/Total%20Runs-73%20runs-FC4C02?style=flat-square&labelColor=1a1b27" alt="Total Runs" height="24"/>
+  <img src="https://img.shields.io/badge/All%20Time-37%20hours-FC4C02?style=flat-square&labelColor=1a1b27" alt="All Time" height="24"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/2026%20Distance-174.6%20km-bb9af7?style=flat-square&labelColor=1a1b27" alt="YTD Distance" height="24"/>
+  <img src="https://img.shields.io/badge/2026%20Runs-42%20runs-bb9af7?style=flat-square&labelColor=1a1b27" alt="YTD Runs" height="24"/>
+  <img src="https://img.shields.io/badge/2026%20Time-17.8%20hours-bb9af7?style=flat-square&labelColor=1a1b27" alt="YTD Time" height="24"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Avg%20Pace-6m%2007s%20%2Fkm-e0af68?style=flat-square&labelColor=1a1b27" alt="Avg Pace" height="24"/>
+  <img src="https://img.shields.io/badge/Elevation%202026-682%20m-9ece6a?style=flat-square&labelColor=1a1b27" alt="Elevation" height="24"/>
+</p>
+
+<p align="right"><sub>🔄 Auto-updated daily by GitHub Actions</sub></p>
+<!--END_SECTION:strava-->
+
+---
 
 # 🔝 Featured Projects
 <p align="center">
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/DESI_MLH.svg" alt="DESI MLH" />
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
 </p>
+
+---
 
 # 🏅 Holopin Badges
 <p align="center">
@@ -104,34 +154,31 @@
   </a>
 </p>
 
-# 🏃 Strava Running Stats
-
-<!--START_SECTION:strava-->
-| 🏃 Strava Running Stats | |
-|---|---|
-| 🗺️ **Total Distance** | **350.4 km** |
-| 📅 **This Year (2025)** | 174.6 km (42 runs) |
-| 🔢 **Total Runs** | 73 runs |
-| ⛰️ **Elevation (2025)** | 682 m |
-| ⏱️ **Total Time** | 37 hours |
-| 🕐 **This Year Time** | 17.8 hours |
-| ⚡ **Avg Pace (2025)** | 6:07 /km |
-| 🔗 **Profile** | [Imran on Strava](https://www.strava.com/athletes/159259381) |
-
-*Last updated: April 09, 2026*
-<!--END_SECTION:strava-->
+---
 
 # 😂 Dev Joke of the Day
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&textColor=%23c9d1d9&qColor=%237aa2f7&aColor=%23bb9af7&borderColor=%237aa2f7&codeColor=%23e0af68" alt="Dev Joke" />
 </p>
 
-# ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-# 🎵 Recently Played
+# ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
+# 🎵 Recently Played on Last.fm
 <p align="center">
   <a href="https://www.last.fm/user/IH_Maruf">
     <img src="https://lastfm-recently-played.vercel.app/api?user=IH_Maruf" alt="Recently Played on Last.fm" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
