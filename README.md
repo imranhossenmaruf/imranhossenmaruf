@@ -144,8 +144,13 @@
 
 <!--START_SECTION:strava-->
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-total.svg" alt="Strava Total Stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-2026.svg" alt="Strava 2026 Stats" />
+  <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-total.svg" alt="Strava All-time Stats" />
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-2026.svg" alt="Strava 2026 Stats" />
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/strava-card-7days.svg" alt="Strava Last 7 Days" />
 </p>
 <!--END_SECTION:strava-->
 
