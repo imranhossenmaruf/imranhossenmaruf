@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/iimranhossenmaruf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.gg/RvWXsmZFZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:iimranhossenmaruf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.strava.com/athletes/imranhossainmaruf"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -64,6 +65,11 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imranhossenmaruf&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </p>
 
+# 🗓️ Contribution Heatmap
+<p align="center">
+  <img src="https://ghchart.rshah.org/7AA2F7/imranhossenmaruf" alt="Contribution Heatmap" />
+</p>
+
 ### 🏗️ My GitHub Contribution City
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D City Graph" />
@@ -81,6 +87,11 @@
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
 </p>
 
+# 😂 Dev Joke of the Day
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&textColor=%23c9d1d9&qColor=%237aa2f7&aColor=%23bb9af7&borderColor=%237aa2f7&codeColor=%23e0af68" alt="Dev Joke" />
+</p>
+
 # ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -92,5 +103,5 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@imranhossenmaruf?theme=asoul" alt="Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fimranhossenmaruf&label=PROFILE%20VIEWS&labelColor=%231a1b27&countColor=%237aa2f7&style=flat" alt="Visitor Count" />
 </p>
