@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260">
+<defs>
+  <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#1a1b27" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="c3"><rect rx="10" width="860" height="260"/></clipPath>
+</defs>
+<rect rx="10" width="860" height="260" fill="#1a1b27" stroke="#7aa2f7" stroke-width="1.2" stroke-opacity="0.7"/>
+<rect width="860" height="260" fill="url(#bg3)" clip-path="url(#c3)"/>
+
+<!-- Header -->
+<circle cx="38" cy="36" r="22" fill="#7aa2f7" opacity="0.15" stroke="#7aa2f7" stroke-width="1"/>
+<text x="38" y="42" text-anchor="middle" font-size="20">📊</text>
+<text x="70" y="28" font-size="17" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">Last 7 Days Report</text>
+<text x="70" y="46" font-size="11" fill="#565f89" font-family="Segoe UI,Arial">Daily running breakdown · Updated every 24 hours</text>
+
+<!-- Streak badge -->
+<rect x="680" y="16" width="156" height="40" rx="8" fill="#e0af68" opacity="0.12" stroke="#e0af68" stroke-width="1" stroke-opacity="0.5"/>
+<text x="758" y="31" text-anchor="middle" font-size="10" fill="#e0af68" font-family="Segoe UI,Arial">🔥 CURRENT STREAK</text>
+<text x="758" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#e0af68" font-family="Segoe UI,Arial">1 days</text>
+
+<line x1="24" y1="62" x2="836" y2="62" stroke="#7aa2f7" stroke-opacity="0.2" stroke-width="1"/>
+
+<!-- Weekly summary top strip -->
+<rect x="24" y="70" width="240" height="30" rx="6" fill="#161b22" stroke="#7aa2f7" stroke-opacity="0.15" stroke-width="1"/>
+<text x="44" y="90" font-size="13" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">⚡ 30.1 km</text>
+<text x="140" y="90" font-size="11" fill="#565f89" font-family="Segoe UI,Arial">this week</text>
+
+<rect x="280" y="70" width="180" height="30" rx="6" fill="#161b22" stroke="#bb9af7" stroke-opacity="0.15" stroke-width="1"/>
+<text x="300" y="90" font-size="13" font-weight="bold" fill="#bb9af7" font-family="Segoe UI,Arial">🏃 4 runs</text>
+<text x="380" y="90" font-size="11" fill="#565f89" font-family="Segoe UI,Arial">done</text>
+
+<rect x="476" y="70" width="180" height="30" rx="6" fill="#161b22" stroke="#9ece6a" stroke-opacity="0.15" stroke-width="1"/>
+<text x="496" y="90" font-size="13" font-weight="bold" fill="#9ece6a" font-family="Segoe UI,Arial">📈 7.5 km/run</text>
+
+<!-- Baseline -->
+<line x1="40" y1="185" x2="820" y2="185" stroke="#7aa2f7" stroke-opacity="0.15" stroke-width="1"/>
+
+<!-- Day bars -->
+
+    <!-- Fri -->
+    
+    <defs>
+      <linearGradient id="bar0" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#7aa2f7" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#3d59a1" stop-opacity="0.8"/>
+      </linearGradient>
+    </defs>
+    <rect x="52" y="135" width="70" height="50" rx="5" fill="url(#bar0)"/>
+    <text x="87" y="129" text-anchor="middle" font-size="11" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">6.3</text>
+    <text x="87" y="117" text-anchor="middle" font-size="9" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
+    
+    <!-- Day label -->
+    <text x="87" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#c0caf5" font-family="Segoe UI,Arial">Fri</text>
+    <text x="87" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 03</text>
+    <rect x="77" y="220" width="20" height="4" rx="2" fill="#7aa2f7" opacity="0.5"/>
+    <!-- Sat -->
+    
+    <defs>
+      <linearGradient id="bar1" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#bb9af7" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#7c5cbf" stop-opacity="0.8"/>
+      </linearGradient>
+    </defs>
+    <rect x="162" y="105" width="70" height="80" rx="5" fill="url(#bar1)"/>
+    <text x="197" y="99" text-anchor="middle" font-size="11" font-weight="bold" fill="#bb9af7" font-family="Segoe UI,Arial">10.1</text>
+    <text x="197" y="87" text-anchor="middle" font-size="9" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
+    
+    <!-- Day label -->
+    <text x="197" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#c0caf5" font-family="Segoe UI,Arial">Sat</text>
+    <text x="197" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 04</text>
+    <rect x="187" y="220" width="20" height="4" rx="2" fill="#bb9af7" opacity="0.5"/>
+    <!-- Sun -->
+    
+    <rect x="272" y="181" width="70" height="4" rx="2" fill="#1e2030"/>
+    <text x="307" y="177" text-anchor="middle" font-size="10" fill="#484f58" font-family="Segoe UI,Arial">Rest</text>
+    
+    <!-- Day label -->
+    <text x="307" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#484f58" font-family="Segoe UI,Arial">Sun</text>
+    <text x="307" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 05</text>
+    
+    <!-- Mon -->
+    
+    <defs>
+      <linearGradient id="bar3" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#bb9af7" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#7c5cbf" stop-opacity="0.8"/>
+      </linearGradient>
+    </defs>
+    <rect x="382" y="141" width="70" height="44" rx="5" fill="url(#bar3)"/>
+    <text x="417" y="135" text-anchor="middle" font-size="11" font-weight="bold" fill="#bb9af7" font-family="Segoe UI,Arial">5.5</text>
+    <text x="417" y="123" text-anchor="middle" font-size="9" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
+    
+    <!-- Day label -->
+    <text x="417" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#c0caf5" font-family="Segoe UI,Arial">Mon</text>
+    <text x="417" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 06</text>
+    <rect x="407" y="220" width="20" height="4" rx="2" fill="#bb9af7" opacity="0.5"/>
+    <!-- Tue -->
+    
+    <rect x="492" y="181" width="70" height="4" rx="2" fill="#1e2030"/>
+    <text x="527" y="177" text-anchor="middle" font-size="10" fill="#484f58" font-family="Segoe UI,Arial">Rest</text>
+    
+    <!-- Day label -->
+    <text x="527" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#484f58" font-family="Segoe UI,Arial">Tue</text>
+    <text x="527" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 07</text>
+    
+    <!-- Wed -->
+    
+    <defs>
+      <linearGradient id="bar5" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#bb9af7" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#7c5cbf" stop-opacity="0.8"/>
+      </linearGradient>
+    </defs>
+    <rect x="602" y="120" width="70" height="65" rx="5" fill="url(#bar5)"/>
+    <text x="637" y="114" text-anchor="middle" font-size="11" font-weight="bold" fill="#bb9af7" font-family="Segoe UI,Arial">8.2</text>
+    <text x="637" y="102" text-anchor="middle" font-size="9" fill="#8b949e" font-family="Segoe UI,Arial">km</text>
+    
+    <!-- Day label -->
+    <text x="637" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#c0caf5" font-family="Segoe UI,Arial">Wed</text>
+    <text x="637" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 08</text>
+    <rect x="627" y="220" width="20" height="4" rx="2" fill="#bb9af7" opacity="0.5"/>
+    <!-- Thu -->
+    
+    <rect x="712" y="181" width="70" height="4" rx="2" fill="#1e2030"/>
+    <text x="747" y="177" text-anchor="middle" font-size="10" fill="#484f58" font-family="Segoe UI,Arial">Rest</text>
+    
+    <!-- Day label -->
+    <text x="747" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#484f58" font-family="Segoe UI,Arial">Thu</text>
+    <text x="747" y="214" text-anchor="middle" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Apr 09</text>
+    
+
+<!-- Footer -->
+<text x="24"  y="250" font-size="9" fill="#484f58" font-family="Segoe UI,Arial">Auto-updated daily by GitHub Actions · strava.com/athletes/159259381</text>
+<text x="836" y="250" text-anchor="end" font-size="9" fill="#7aa2f7" font-family="Segoe UI,Arial">Last 7 Days</text>
+</svg>
