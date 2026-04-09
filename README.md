@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imranhossenmaruf&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 # 💫 About Me:
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -13,6 +17,7 @@
 <a href="https://discord.gg/RvWXsmZFZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:iimranhossenmaruf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.strava.com/athletes/159259381"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
+<a href="https://leetcode.com/iimranhossenmaruf"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -65,6 +70,11 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imranhossenmaruf&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </p>
 
+# 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/iimranhossenmaruf?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 # 🗓️ Contribution Heatmap
 <p align="center">
   <img src="https://ghchart.rshah.org/7AA2F7/imranhossenmaruf" alt="Contribution Heatmap" />
@@ -85,6 +95,13 @@
 <p align="center">
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/DESI_MLH.svg" alt="DESI MLH" />
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
+</p>
+
+# 🏅 Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@imranhossenmaruf">
+    <img src="https://holopin.me/@imranhossenmaruf" alt="Holopin Badges" />
+  </a>
 </p>
 
 # 🏃 Strava Running Stats
@@ -117,8 +134,4 @@
   <a href="https://www.last.fm/user/IH_Maruf">
     <img src="https://lastfm-recently-played.vercel.app/api?user=IH_Maruf" alt="Recently Played on Last.fm" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fimranhossenmaruf&label=PROFILE%20VIEWS&labelColor=%231a1b27&countColor=%237aa2f7&style=flat" alt="Visitor Count" />
 </p>
