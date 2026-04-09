@@ -1,5 +1,5 @@
-name: 🏃 Update Strava Stats
-on:
+name: Update Strava Stats
+"on":
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch & Update Strava Stats
+      - name: Fetch and Update Strava Stats
         env:
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
           STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
@@ -29,5 +29,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "🏃 Update Strava Stats [skip ci]"
+          git diff --staged --quiet || git commit -m "Update Strava Stats [skip ci]"
           git push
