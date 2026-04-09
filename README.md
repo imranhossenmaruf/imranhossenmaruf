@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/iimranhossenmaruf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.gg/RvWXsmZFZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:iimranhossenmaruf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.strava.com/athletes/imranhossainmaruf"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
+<a href="https://www.strava.com/athletes/159259381"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -86,6 +86,23 @@
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/DESI_MLH.svg" alt="DESI MLH" />
   <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
 </p>
+
+# 🏃 Strava Running Stats
+
+<!--START_SECTION:strava-->
+| 🏃 Strava Running Stats | |
+|---|---|
+| 🗺️ **Total Distance** | **350.4 km** |
+| 📅 **This Year (2025)** | 174.6 km (42 runs) |
+| 🔢 **Total Runs** | 73 runs |
+| ⛰️ **Elevation (2025)** | 682 m |
+| ⏱️ **Total Time** | 37 hours |
+| 🕐 **This Year Time** | 17.8 hours |
+| ⚡ **Avg Pace (2025)** | 6:07 /km |
+| 🔗 **Profile** | [Imran on Strava](https://www.strava.com/athletes/159259381) |
+
+*Last updated: April 09, 2026*
+<!--END_SECTION:strava-->
 
 # 😂 Dev Joke of the Day
 <p align="center">
