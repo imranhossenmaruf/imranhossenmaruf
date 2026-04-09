@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9ece6a"/>
+      <stop offset="100%" stop-color="#9ece6a" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e0af68"/>
+      <stop offset="100%" stop-color="#e0af68" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="bar5" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f7768e"/>
+      <stop offset="100%" stop-color="#f7768e" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="180" rx="8" fill="url(#bg)" stroke="#7aa2f7" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- WakaTime logo area -->
+  <circle cx="35" cy="35" r="18" fill="#7aa2f7" opacity="0.15" stroke="#7aa2f7" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="35" y="40" text-anchor="middle" font-size="18" font-family="Arial">⏱️</text>
+
+  <!-- Title -->
+  <text x="62" y="28" font-size="15" font-weight="bold" fill="#7aa2f7" font-family="Segoe UI,Arial">WakaTime Coding Stats</text>
+  <text x="62" y="44" font-size="10" fill="#565f89" font-family="Segoe UI,Arial">Tracking active · Stats update daily via GitHub Actions</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="56" x2="840" y2="56" stroke="#7aa2f7" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Language bars (placeholder/demo) -->
+  <text x="30" y="76" font-size="10" fill="#8b949e" font-family="Segoe UI,monospace">Python      </text>
+  <rect x="120" y="65" width="420" height="12" rx="3" fill="url(#bar1)" opacity="0.7"/>
+  <text x="548" y="76" font-size="10" fill="#7aa2f7" font-family="Segoe UI,monospace">warming up...</text>
+
+  <text x="30" y="96" font-size="10" fill="#8b949e" font-family="Segoe UI,monospace">JavaScript  </text>
+  <rect x="120" y="85" width="380" height="12" rx="3" fill="url(#bar2)" opacity="0.7"/>
+  <text x="508" y="96" font-size="10" fill="#bb9af7" font-family="Segoe UI,monospace">warming up...</text>
+
+  <text x="30" y="116" font-size="10" fill="#8b949e" font-family="Segoe UI,monospace">Kotlin      </text>
+  <rect x="120" y="105" width="320" height="12" rx="3" fill="url(#bar3)" opacity="0.7"/>
+  <text x="448" y="116" font-size="10" fill="#9ece6a" font-family="Segoe UI,monospace">warming up...</text>
+
+  <text x="30" y="136" font-size="10" fill="#8b949e" font-family="Segoe UI,monospace">HTML/CSS    </text>
+  <rect x="120" y="125" width="260" height="12" rx="3" fill="url(#bar4)" opacity="0.7"/>
+  <text x="388" y="136" font-size="10" fill="#e0af68" font-family="Segoe UI,monospace">warming up...</text>
+
+  <text x="30" y="156" font-size="10" fill="#8b949e" font-family="Segoe UI,monospace">Other       </text>
+  <rect x="120" y="145" width="180" height="12" rx="3" fill="url(#bar5)" opacity="0.7"/>
+  <text x="308" y="156" font-size="10" fill="#f7768e" font-family="Segoe UI,monospace">warming up...</text>
+
+  <!-- Shimmer animation on bars -->
+  <rect x="120" y="65" width="0" height="12" rx="3" fill="white" opacity="0.1">
+    <animate attributeName="width" values="0;420;0" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="120;120;540" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Status badge -->
+  <rect x="700" y="140" width="140" height="26" rx="5" fill="#7aa2f7" opacity="0.15" stroke="#7aa2f7" stroke-width="0.5" stroke-opacity="0.5"/>
+  <text x="770" y="158" text-anchor="middle" font-size="10" fill="#7aa2f7" font-family="Segoe UI,Arial">🟢 Tracking Active</text>
+
+  <!-- Footer -->
+  <text x="20" y="172" font-size="8" fill="#484f58" font-family="Segoe UI,Arial">wakatime.com/@iimranhossenmaruf · Install VS Code extension to start tracking</text>
+</svg>
