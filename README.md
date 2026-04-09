@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imranhossenmaruf.imranhossenmaruf&left_text=Profile%20Views&left_color=%231a1b27&right_color=%237aa2f7" alt="Profile Views" />
-</div>
-
----
-
 # 💫 About Me
 
 <p align="left">
