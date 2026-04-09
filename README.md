@@ -205,22 +205,11 @@
 
 ---
 
-# 🗺️ Visitor World Map
+# 🌍 Visitor World Map
 
 <p align="center">
-  <a href="https://imranhossenmaruf-globe-imranhossenmarufs-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌍_Interactive_Globe-Click_to_Explore-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=4ade80" alt="Interactive Globe" />
-  </a>
+  <img width="500" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/visitor-map.svg" alt="Auto-Rotating Earth Globe" />
 </p>
-<p align="center">
-  <a href="https://imranhossenmaruf-globe-imranhossenmarufs-projects.vercel.app" target="_blank">
-    <img width="100%" src="https://raw.githubusercontent.com/imranhossenmaruf/imranhossenmaruf/main/visitor-map.svg" alt="Click to open Interactive Earth Globe" />
-  </a>
-</p>
-<p align="center">
-  <sub>⬆️ Click to open the <strong>Interactive 3D Earth Globe</strong> — drag to rotate, scroll to zoom</sub>
-</p>
-
 ---
 
 <div align="center">
