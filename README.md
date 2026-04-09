@@ -46,23 +46,18 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imranhossenmaruf&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranhossenmaruf&theme=tokyonight" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranhossenmaruf&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenmaruf&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=tokyonight" alt="Gist Card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranhossenmaruf&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imranhossenmaruf&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </p>
 
 ### 🏗️ My GitHub Contribution City
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My 3D City Graph" />
-</p>
-
-# 📊 Coding Activity (WakaTime)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iimranhossenmaruf&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
 # 🐍 Contribution Snake
@@ -72,9 +67,9 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranhossenmaruf&theme=tokyonight&hide_border=false)
 
 # 🔝 Featured Projects
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=DESI_MLH&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imranhossenmaruf&repo=imranhossenmaruf&theme=tokyonight" />
+<p align="center">
+  <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/DESI_MLH.svg" alt="DESI MLH" />
+  <img width="49%" src="https://gh-card.dev/repos/imranhossenmaruf/imranhossenmaruf.svg" alt="Profile Repo" />
 </p>
 
 # ✍️ Quote
